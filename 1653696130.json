@@ -1,6 +1,6 @@
 {
     "ver": "4.0",
-    "name": "Microsoft.XboxLive.T766737132.REPLACEEVENTNAME",
+    "name": "REPLACEEVENTMM",
     "time": "REPLACETIME",
     "iKey": "o:0890af88a9ed4cc886a14f5e174a2827",
     "ext": {
@@ -23,8 +23,8 @@
             "expId": "1"
         },
         "app": {
-            "id": "U:Microsoft.Halo5Forge_1.194.6192.2_x64__8wekyb3d8bbwe!Ausar",
-            "ver": "1.194.6192.2_x64_!2018/03/06:08:41:06!55ED9DD!halo5forge.exe",
+            "id": "U:Microsoft.MicrosoftMahjong_4.7.4221.0_x64__8wekyb3d8bbwe!App",
+            "ver": "4.7.4221.0_x64_!2025/04/22:21:59:49!0!mahjong.exe",
             "is1P": 1,
             "asId": 1
         },
@@ -36,6 +36,7 @@
             "devMake": "1",
             "devModel": "1",
             "ticketKeys": [
+                "1",
                 "1"
             ]
         },
