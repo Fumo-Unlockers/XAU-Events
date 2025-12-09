@@ -1,6 +1,6 @@
 {
     "ver": "4.0",
-    "name": "Microsoft.XboxLive.T766737132.REPLACEEVENTNAME",
+    "name": "REPLACEEVENTNVV",
     "time": "REPLACETIME",
     "iKey": "o:0890af88a9ed4cc886a14f5e174a2827",
     "ext": {
@@ -15,7 +15,6 @@
         "privacy": {
             "isRequired": false
         },
-        "metadata": REPLACEMETADATA,
         "os": {
             "bootId": 1,
             "name": "Windows",
@@ -23,11 +22,12 @@
             "expId": "1"
         },
         "app": {
-            "id": "U:Microsoft.Halo5Forge_1.194.6192.2_x64__8wekyb3d8bbwe!Ausar",
-            "ver": "1.194.6192.2_x64_!2018/03/06:08:41:06!55ED9DD!halo5forge.exe",
+            "id": "U:SkobbejakGames.48412C62275CA_1.1.21.2_x64__qxb276dwnvkmg!App",
+            "ver": "1.1.21.2_x64_!2018/02/09:17:24:55!0!nverloreverstand.exe",
             "is1P": 1,
             "asId": 1
         },
+        "metadata": REPLACEMETADATA,
         "device": {
             "localId": "s:11111111-1111-1111-1111-111111111111",
             "deviceClass": "Windows.Desktop"
@@ -36,6 +36,7 @@
             "devMake": "1",
             "devModel": "1",
             "ticketKeys": [
+                "1",
                 "1"
             ]
         },
