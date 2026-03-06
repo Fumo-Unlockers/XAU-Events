@@ -1,6 +1,6 @@
 {
     "ver": "4.0",
-    "name": "Microsoft.XboxLive.T2142027917.RadawayCollected",
+    "name": "Microsoft.XboxLive.T2142027917.REPLACETITLE",
     "time": "REPLACETIME",
     "iKey": "o:0890af88a9ed4cc886a14f5e174a2827",
     "ext": {
@@ -14,7 +14,7 @@
         },
         "privacy": {
             "isRequired": false
-        },
+        },REPLACEMETADATA
         "os": {
             "bootId": 1,
             "name": "Windows",
@@ -56,7 +56,7 @@
             "playerSessionId": "11111111-1111-1111-1111-111111111111",
             "titleId": "2142027917",
             "userId": "REPLACEXUID",
-            "ver": 1
+            "ver": 1REPLACEDATA
         }
     }
 }
