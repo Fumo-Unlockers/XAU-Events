@@ -15,20 +15,7 @@
     "privacy": {
       "isRequired": false
     },
-    "metadata": {
-      "f": {
-        "baseData": {
-          "f": {
-            "properties": {
-              "f": {
-                "AchievementID": 4
-              }
-            }
-          }
-        }
-      },
-      "policies": 1
-    },
+    "metadata": REPLACEMETADATA,
     "os": {
       "bootId": 1,
       "name": "1",
@@ -61,4 +48,4 @@
     }
   },
   "data": REPLACEDATA
-  }
+}

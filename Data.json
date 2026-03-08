@@ -12333,13 +12333,18 @@
         }
     },
     "434412541": {
-        "FullySupported": false,
+        "FullySupported": true,
         "Achievements": {
             "4": {
                 "EventReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12358,6 +12363,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12369,11 +12379,33 @@
                     "Replacement": 5
                 }
             },
+            "6": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.PlayerHealed"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"InCombat\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PlayerHealed\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"InCombat\":1}}}"
+                }
+            },
             "8": {
                 "EventReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12392,6 +12424,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12408,6 +12445,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12426,6 +12468,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12442,6 +12489,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12460,6 +12512,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12476,6 +12533,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12494,6 +12556,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12510,6 +12577,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12528,6 +12600,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12545,6 +12622,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.WeaponFullyUpgraded"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12557,6 +12639,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.ItemCrafted"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12568,6 +12655,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12586,6 +12678,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12602,6 +12699,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12620,6 +12722,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12636,6 +12743,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12654,6 +12766,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12671,6 +12788,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12682,11 +12804,84 @@
                     "Replacement": 40
                 }
             },
+            "41": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.NumMissionObjectivesCompleted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NumMissionObjectivesCompleted\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":5,\"ObjectiveType\":\"Challenge\"}}}"
+                }
+            },
+            "42": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.NumMissionObjectivesCompleted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NumMissionObjectivesCompleted\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":3,\"ObjectiveType\":\"Mission\"}}}"
+                }
+            },
+            "43": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.EnemyHeadshotted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"InventoryType\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EnemyHeadshotted\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"InventoryType\":1,\"WeaponName\":\"BoltActionRifle\"}}}"
+                }
+            },
+            "44": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.AnimalHeadshotted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AnimalHeadshotted\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AnimalName\":\"Deer\"}}}"
+                }
+            },
             "45": {
                 "EventReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12699,11 +12894,101 @@
                     "Replacement": 45
                 }
             },
+            "46": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.NumChallengeTombsCompleted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NumChallengeTombsCompleted\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":9}}}"
+                }
+            },
+            "47": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.NumMissionObjectivesCompleted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NumMissionObjectivesCompleted\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":9,\"ObjectiveType\":\"Mission\"}}}"
+                }
+            },
+            "48": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.NumNarrativeAssetsCollected"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NumNarrativeAssetsCollected\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":53}}}"
+                }
+            },
+            "49": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.NumNarrativeAssetsCollected"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NumNarrativeAssetsCollected\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":159}}}"
+                }
+            },
+            "50": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.NumMissionObjectivesCompleted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NumMissionObjectivesCompleted\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":19,\"ObjectiveType\":\"Challenge\"}}}"
+                }
+            },
             "51": {
                 "EventReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12722,6 +13007,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12733,11 +13023,84 @@
                     "Replacement": 52
                 }
             },
+            "53": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.TotalReplayPageCountUpdate"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"TotalPageCount\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"TotalReplayPageCountUpdate\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"TotalPageCount\":150,\"MedalType\":\"BronzeOrBetter\"}}}"
+                }
+            },
+            "54": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.TotalReplayPageCountUpdate"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"TotalPageCount\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"TotalReplayPageCountUpdate\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"TotalPageCount\":300,\"MedalType\":\"BronzeOrBetter\"}}}"
+                }
+            },
+            "55": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.UpdateReplayLevelsCompletedMedalStat"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"UpdateReplayLevelsCompletedMedalStat\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":29,\"MedalType\":\"BronzeOrBetter\"}}}"
+                }
+            },
+            "56": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.UpdateReplayLevelsCompletedMedalStat"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"UpdateReplayLevelsCompletedMedalStat\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":29,\"MedalType\":\"Gold\"}}}"
+                }
+            },
             "57": {
                 "EventReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12750,11 +13113,33 @@
                     "Replacement": 57
                 }
             },
+            "58": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.UpdateReplayLevelsCompletedMedalStat"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"UpdateReplayLevelsCompletedMedalStat\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":10,\"MedalType\":\"Gold\"}}}"
+                }
+            },
             "59": {
                 "EventReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12773,6 +13158,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12790,6 +13180,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12801,11 +13196,38 @@
                     "Replacement": 61
                 }
             },
+            "62": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarnedCountUpdate"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4,\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementEarnedCountUpdate\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":\"REPLACECRITERIAROTTR1\",\"Count\":5}}}"
+                },
+                "CriteriaReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACECRITERIAROTTR1",
+                    "Replacement": 62
+                }
+            },
             "63": {
                 "EventReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12824,6 +13246,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12840,6 +13267,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12858,6 +13290,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12874,6 +13311,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12892,6 +13334,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12908,6 +13355,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12926,6 +13378,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12942,6 +13399,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12960,6 +13422,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -12976,6 +13443,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -12994,6 +13466,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13010,6 +13487,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13028,6 +13510,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13044,6 +13531,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13062,6 +13554,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13078,6 +13575,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13096,6 +13598,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13112,6 +13619,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13130,6 +13642,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13146,6 +13663,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13164,6 +13686,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13180,6 +13707,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13198,6 +13730,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13214,6 +13751,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13232,6 +13774,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13248,6 +13795,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13266,6 +13818,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13282,6 +13839,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13300,6 +13862,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13316,6 +13883,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13334,6 +13906,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13350,6 +13927,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13368,6 +13950,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13384,6 +13971,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13402,6 +13994,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13418,6 +14015,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13436,6 +14038,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13452,6 +14059,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13470,6 +14082,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13486,6 +14103,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13504,6 +14126,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13520,6 +14147,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13538,6 +14170,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13554,6 +14191,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13572,6 +14214,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13583,11 +14230,50 @@
                     "Replacement": 112
                 }
             },
+            "113": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.UpdateReplayLevelsCompletedMedalStat"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"UpdateReplayLevelsCompletedMedalStat\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":1,\"MedalType\":\"BabaYagaGold\"}}}"
+                }
+            },
+            "114": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEEVENT",
+                    "Replacement": "Microsoft.XboxLive.T434412541.UpdateReplayLevelsCompletedMedalStat"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"UpdateReplayLevelsCompletedMedalStat\",\"serviceConfigId\":\"760c0100-d938-4188-b063-a44a19e49bfd\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"434412541\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":2,\"MedalType\":\"BabaYagaGold\"}}}"
+                }
+            },
             "115": {
                 "EventReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13606,6 +14292,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13622,6 +14313,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13640,6 +14336,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13656,6 +14357,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13674,6 +14380,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13690,6 +14401,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13708,6 +14424,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13724,6 +14445,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13742,6 +14468,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13758,6 +14489,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13776,6 +14512,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13792,6 +14533,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13810,6 +14556,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13826,6 +14577,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13844,6 +14600,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13860,6 +14621,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13878,6 +14644,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13894,6 +14665,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13912,6 +14688,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13928,6 +14709,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13946,6 +14732,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13962,6 +14753,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -13980,6 +14776,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -13996,6 +14797,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -14014,6 +14820,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14030,6 +14841,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -14048,6 +14864,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14064,6 +14885,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -14082,6 +14908,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14098,6 +14929,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -14116,6 +14952,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14132,6 +14973,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -14150,6 +14996,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14166,6 +15017,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -14184,6 +15040,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14200,6 +15061,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -14218,6 +15084,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14234,6 +15105,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -14252,6 +15128,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14268,6 +15149,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -14286,6 +15172,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14302,6 +15193,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -14320,6 +15216,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14336,6 +15237,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -14354,6 +15260,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14370,6 +15281,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -14388,6 +15304,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14405,6 +15326,11 @@
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
                 },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+                },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEDATA",
@@ -14421,6 +15347,11 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENT",
                     "Replacement": "Microsoft.XboxLive.T434412541.AchievementEarned"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
