@@ -28375,28 +28375,565 @@
     "2142027917": {
         "FullySupported": false,
         "Achievements": {
+            "1": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "PlayerCollectedCaps"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "\"metadata\":{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"CapsCollected\":4}},\"measurements\":{\"f\":{\"CapsCollected\":4}}}}},\"policies\":0},"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ",\"properties\":{\"CapsCollected\":1254},\"measurements\":{\"CapsCollected\":1254}"
+                }
+            },
+            "2": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "PlayerRushedRoom"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "3": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "PlayerBuiltRoom"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "4": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "PlayerBuiltRoom"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "5": {
+                "EventReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "PlayerCollectedCaps"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "\"metadata\":{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"CapsCollected\":4}},\"measurements\":{\"f\":{\"CapsCollected\":4}}}}},\"policies\":0},"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ",\"properties\":{\"CapsCollected\":425541},\"measurements\":{\"CapsCollected\":425541}"
+                }
+            },
+            "6": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "DwellerReachedLevel10"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "7": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "DwellerReachedLevel25"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "8": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "DwellerReachedLevel50"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "9": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "NewRoomBuilt"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "\"metadata\":{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"TotalUniqueRoomsBuiltInVault\":4}},\"measurements\":{\"f\":{\"TotalUniqueRoomsBuiltInVault\":4}}}}},\"policies\":0},"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ",\"properties\":{\"TotalUniqueRoomsBuiltInVault\":24},\"measurements\":{\"TotalUniqueRoomsBuiltInVault\":24}"
+                }
+            },
+            "10": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "NewLegendaryWeaponCollected"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "\"metadata\":{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"TotalLegendaryWeaponsCollectedInVault\":4}},\"measurements\":{\"f\":{\"TotalLegendaryWeaponsCollectedInVault\":4}}}}},\"policies\":0},"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ",\"properties\":{\"TotalLegendaryWeaponsCollectedInVault\":20},\"measurements\":{\"TotalLegendaryWeaponsCollectedInVault\":20}"
+                }
+            },
+            "11": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "NewLegendaryOutfitsCollected"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "\"metadata\":{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"TotalLegendaryOutfitsCollectedInVault\":4}},\"measurements\":{\"f\":{\"TotalLegendaryOutfitsCollectedInVault\":4}}}}},\"policies\":0},"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ",\"properties\":{\"TotalLegendaryOutfitsCollectedInVault\":20},\"measurements\":{\"TotalLegendaryOutfitsCollectedInVault\":20}"
+                }
+            },
+            "12": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "NewLegendaryDwellersCollected"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "\"metadata\":{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"TotalLegendaryDwellersCollectedInVault\":4}},\"measurements\":{\"f\":{\"TotalLegendaryDwellersCollectedInVault\":4}}}}},\"policies\":0},"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ",\"properties\":{\"TotalLegendaryDwellersCollectedInVault\":20},\"measurements\":{\"TotalLegendaryDwellersCollectedInVault\":20}"
+                }
+            },
             "13": {
                 "Replacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACETITLE",
                     "Replacement": "RaiderAttackStopped"
                 },
-                "Replacement1": {
+                "MetaDataReplacement": {
                     "ReplacementType": "Replace",
-                    "Target": "REPLACENAME",
-                    "Replacement": "Microsoft.XboxLive.T2142027917.RaiderAttackStopped"
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
                 }
             },
-            "30": {
+            "14": {
                 "Replacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACETITLE",
-                    "Replacement": "RadawayCollected"
+                    "Replacement": "ObjectiveCompleted"
                 },
-                "Replacement1": {
+                "MetaDataReplacement": {
                     "ReplacementType": "Replace",
-                    "Target": "REPLACENAME",
-                    "Replacement": "Microsoft.XboxLive.T2142027917.RadawayCollected"
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "15": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "PowerRoomMerged"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "16": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "FoodRoomMerged"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "17": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "WaterRoomMerged"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "18": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "BabyBorn"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "19": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "RoomUpgradedToLevel3"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "20": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "DialogueChoiceMade"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "21": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "BossKilled"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "22": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "QuestCompleted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "23": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "QuestCompleted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "24": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "QuestCompleted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "25": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "QuestCompleted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "26": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "ThemeCollected"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "\"metadata\":{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"TotalThemesCollectedInVault\":4}},\"measurements\":{\"f\":{\"TotalThemesCollectedInVault\":4}}}}},\"policies\":0},"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ",\"properties\":{\"TotalThemesCollectedInVault\":1},\"measurements\":{\"TotalThemesCollectedInVault\":1}"
+                }
+            },
+            "27": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "ThemeCollected"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "\"metadata\":{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"TotalThemesCollectedInVault\":4}},\"measurements\":{\"f\":{\"TotalThemesCollectedInVault\":4}}}}},\"policies\":0},"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ",\"properties\":{\"TotalThemesCollectedInVault\":4},\"measurements\":{\"TotalThemesCollectedInVault\":4}"
+                }
+            },
+            "28": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "ThemeCrafted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": "\"metadata\":{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"TotalThemesCraftedInVault\":4}},\"measurements\":{\"f\":{\"TotalThemesCraftedInVault\":4}}}}},\"policies\":0},"
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ",\"properties\":{\"TotalThemesCraftedInVault\":8},\"measurements\":{\"TotalThemesCraftedInVault\":8}"
+                }
+            },
+            "29": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "EnemyKilledOnQuest"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "31": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "ItemScrapped"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "32": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "WeaponCrafted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "33": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "OutfitsCrafted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
+                }
+            },
+            "35": {
+                "Replacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACETITLE",
+                    "Replacement": "BarbershopCustomizationCompleted"
+                },
+                "MetaDataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEMETADATA",
+                    "Replacement": ""
+                },
+                "DataReplacement": {
+                    "ReplacementType": "Replace",
+                    "Target": "REPLACEDATA",
+                    "Replacement": ""
                 }
             }
         }
